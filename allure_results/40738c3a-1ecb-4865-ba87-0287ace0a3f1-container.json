@@ -1,0 +1,1 @@
+{"uuid": "5830b4ad-9af7-4c55-918d-12496f609c41", "befores": [{"name": "tariff_name", "status": "passed", "start": 1791119382742, "stop": 1791119382742}], "afters": [{"name": "tariff_name::<lambda>", "start": 1791119383002}], "start": 1791119382742, "stop": 1791119383002}
